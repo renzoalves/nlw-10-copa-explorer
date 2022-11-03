@@ -41,7 +41,7 @@ header {
     text-align: center;
 }
 
-.cards {
+#cards {
     display: flex;
     flex-direction: column;
     gap: 32px;
@@ -104,4 +104,42 @@ header {
     line-height: 125%;
 
     color: #e1e1e6;
+}
+
+.card h2:hover,
+.card ul li strong:hover,
+.card ul li img:hover {
+    transform: scale(1.2);
+}
+
+.card h2,
+.card ul li strong,
+.card ul li img {
+    transition: transform 0.3s;
+}
+
+.card {
+    opacity: 0;
+    /* nome-propriedade: nome-animacao (tempo-de-execução-em-segundos)s */
+    /*        animation: appear                                      3s; */
+    animation: appear .3s forwards;
+}
+
+.card:nth-child(2) {
+    animation-delay: .2s;
+}
+
+.card:nth-child(3) {
+    animation-delay: .4s;
+}
+
+@keyframes appear {
+    0% {
+        transform: translateY(-40px);
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 1;
+    }
 }
