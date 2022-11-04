@@ -1,25 +1,53 @@
-# SUMÁRIO
+<h1 align="center"> NLW #10 Copa 2022 </h1>
 
-## Extras
+<p align="center">
+Base: Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
+</p>
 
-### CSS info
+<p align="center">
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-licença">Licença</a>
+</p>
 
-#### Fontes
+<p align="center">
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
+</p>
 
-- https://fonts.google.com/
-- - Roboto Bold (Bold-700)
-- - Roboto Black (Black-900)
+<br>
 
-### Figma
-https://www.figma.com/file/UPsYSZNvEIUjCmXAeVry45/Calend%C3%A1rio-de-Jogos-(Community)?node-id=175%3A1816
+<p align="center">
+  <img alt="calendario-da-copa" src=".github/preview.jpg" width="100%">
+</p>
 
-### Imagens Randômicas
+## 🚀 Tecnologias
 
-https://source.unsplash.com/random
-<img src="https://source.unsplash.com/random">
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-### Links
+-   HTML e CSS
+-   JavaScript
+-   Git e Github
+-   [Imagens Randômicas](https://source.unsplash.com/random)
+-   [Pesquisa: Calendário Google - Copa 2022](https://www.google.com/search?q=Calend%C3%A1rio+Google+-+Copa+2022&oq=Calend%C3%A1rio+Google+-+Copa+2022&aqs=chrome..69i57j33i160l2j33i22i29i30l7.262j0j7&sourceid=chrome&ie=UTF-8)
+-   [Google Fonts](https://fonts.google.com/)
+-   -   Roboto Bold (Bold-700)
+-   -   Roboto Black (Black-900)
 
-- Calendário Google - Copa 2022
+<br>
 
-https://www.google.com/search?q=copa+do+mundo+calend%C3%A1rio+&hl=en&sxsrf=ALiCzsZoKWNkDcZB5r6yUZ_gOOckX6sfew%3A1666552817096&ei=8ZNVY5S4BZHM1sQPhYyY8AI&ved=0ahUKEwjU9KWFiff6AhURppUCHQUGBi4Q4dUDCA8&uact=5&oq=copa+do+mundo+calend%C3%A1rio+&gs_lcp=Cgdnd3Mtd2l6EAMyBAgjECcyCAgAEIAEEMsBMggIABCABBDLATIICAAQgAQQywEyCAgAEIAEEMsBMggIABCABBDLATIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeOgoIABBHENYEELADOg0IABDkAhDWBBCwAxgBSgQITRgBSgQIQRgASgQIRhgBUKgDWKgDYIkGaAFwAXgAgAGhAYgBoQGSAQMwLjGYAQCgAQHIAQ3AAQHaAQYIARABGAk&sclient=gws-wiz#sie=lg;/m/0fp_8fm;2;/m/030q7;mt;fp;1;;;
+## 💻 Projeto
+
+O Calendário Copa é um projeto que mostra os jogos da Copa do Mundo FIFA 2022 aplicando técnicas de @media para responsividade, formatação e animações em CSS puro.
+
+## 🔖 Layout
+
+Você pode visualizar o layout do projeto através [DESSE LINK](<https://www.figma.com/file/UPsYSZNvEIUjCmXAeVry45/Calend%C3%A1rio-de-Jogos-(Community)?node-id=172%3A179/duplicate>). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+
+## 📝 Licença
+
+Esse projeto está sob a licença MIT.
+
+---
+
+Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
