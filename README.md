@@ -10,6 +10,9 @@
 - - Roboto Bold (Bold-700)
 - - Roboto Black (Black-900)
 
+### Figma
+https://www.figma.com/file/UPsYSZNvEIUjCmXAeVry45/Calend%C3%A1rio-de-Jogos-(Community)?node-id=175%3A1816
+
 ### Imagens Randômicas
 
 https://source.unsplash.com/random
