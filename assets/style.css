@@ -34,7 +34,6 @@ body.green {
     --card-color-primary: #047C3F;
     --card-bg-color: #1a1f1b;
     --bg: url(./bg-green.svg);
-
 }
 
 ul {
@@ -46,7 +45,7 @@ body {
     background-image: var(--bg);
     background-position: top center;
     background-repeat: no-repeat;
-    background-size: cover;
+    /* background-size: cover; */
 }
 
 body * {
@@ -116,6 +115,11 @@ header {
     justify-content: space-between;
 }
 
+.card ul li img {
+    height: 50px;
+    width: 50px;
+}
+
 .card ul li+li {
     padding-top: 24px;
     border-top: 1px solid #323238;
@@ -124,9 +128,14 @@ header {
 .card ul li strong {
     font-weight: 900;
     font-size: 36px;
-    line-height: 125%;
+    line-height: 80%;
 
     color: #e1e1e6;
+}
+
+.card ul li strong h6 {
+    font-size: 18px;
+    color: var(--card-color-primary);
 }
 
 .card h2:hover,
@@ -137,6 +146,7 @@ header {
 
 .card h2,
 .card ul li strong,
+.card ul li strong h6,
 .card ul li img {
     transition: transform 0.3s;
 }
